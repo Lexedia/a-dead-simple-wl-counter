@@ -17,7 +17,7 @@ You then have a list commands, optional arguments are marked in `[]`:
 <sub>-aliases: `!clearwins`</sub>
 - `!clearloss`, which will clear the loss counter.
 <sub>-aliases: `!clearlosses`</sub>
-- `!shuffleemoij`, which will change randomly the emoji, [if enabled](#configuration).
+- `!shuffleemoji`, which will change randomly the emoji, [if enabled](#configuration).
 
 
 Currently, only mods and the broadcaster can use these commands.
